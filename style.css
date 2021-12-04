@@ -1,0 +1,39 @@
+body {
+  background-color: #89d6d9;
+}
+.podloga {
+  width: 960px;
+  padding: 20px;
+  background-color: #ffffff;
+  margin: auto;
+}
+table,
+th,
+td {
+  border: 1px solid black;
+  border-collapse: collapse;
+  border-color: #2e2d2d56;
+  padding: 6px;
+  margin-bottom: 10px;
+}
+#td-informacije {
+  text-align: center;
+  background-color: #ddb25c;
+}
+#td-djela {
+  text-align: center;
+  background-color: #ddb25c;
+}
+td {
+  background-color: #f5f4f2;
+}
+li {
+  list-style-type: none;
+}
+.slika-text {
+  background-color: #6e83706c;
+  padding: 10px;
+}
+p {
+  text-align: justify;
+}
